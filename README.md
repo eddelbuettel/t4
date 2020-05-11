@@ -7,11 +7,13 @@ An informal series of _lightning talks_ taped as videos and supported by
 a few slides.  Focused on a few little ticks and tricks, or tools, or toys, to
 make computing life just that little bit easier. 
 
-The scope, as outlined in the 
-[initial post](http://dirk.eddelbuettel.com/blog/2020/05/03#000_introducing_t4)) 
-and [video](https://youtu.be/-gKtibww-fI) is going to be about `shell` tricks;
-`byobu` for session management, multiplexing and more; `emacs` for life and everything;
-likely some `git` and probably some `R` possibly via `r`.
+The scope, as outlined in the [initial
+post](http://dirk.eddelbuettel.com/blog/2020/05/03#000_introducing_t4) and
+[video](https://youtu.be/-gKtibww-fI), is going to be about `bash` and `shell` tricks;
+[byobu](https://www.byobu.org/) for session management, multiplexing and more;
+[emacs](https://xkcd.com/378/) for life and everything (including
+[ESS](https://github.com/emacs-ess/ESS), [magit](https://github.com/magit/magit), daemon
+mode and more); likely some `git` and probably some `R` possibly via `r`.
 
 ### Episodes
 
