@@ -17,11 +17,11 @@ mode and more); likely some `git` and probably some `R` possibly via `r`.
 
 ### Episodes
 
-- 2020-05-03 Intro and Overview: 
+- \#000 Intro and Overview (2020-05-03): 
   [blog post](http://dirk.eddelbuettel.com/blog/2020/05/03#000_introducing_t4),
   [video](https://youtu.be/-gKtibww-fI), 
   [slides](http://dirk.eddelbuettel.com/papers/t4_000_intro.pdf)
-- 2020-05-10 Shell Adding Colours: 
+- \#001 Shell Adding Colours ( 2020-05-10): 
   [blog post](http://dirk.eddelbuettel.com/blog/2020/05/03#000_introducing_t4),
   [video](https://www.youtube.com/watch?v=a1Bo2yUotv8),
   [slides](http://dirk.eddelbuettel.com/papers/t4_001_shell_colors.pdf)
