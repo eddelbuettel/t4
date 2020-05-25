@@ -29,6 +29,11 @@ mode and more); likely some `git` and probably some `R` possibly via `r`.
   [blog post](http://dirk.eddelbuettel.com/blog/2020/05/17#002_shell_prompt),
   [video](https://www.youtube.com/watch?v=j0NCVIk9Yx8),
   [slides](http://dirk.eddelbuettel.com/papers/t4_002_shell_prompt.pdf)
+- \#003 Shell Customization (2020-05-24): 
+  [blog post](http://dirk.eddelbuettel.com/blog/2020/05/24#003_shell_customization),
+  [video](https://www.youtube.com/watch?v=TNzU57Sj7Gs),
+  [slides](http://dirk.eddelbuettel.com/papers/t4_003_shell_customisation.pdf)
+
 
 ### What Else?
 
