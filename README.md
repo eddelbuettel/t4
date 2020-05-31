@@ -33,6 +33,10 @@ mode and more); likely some `git` and probably some `R` possibly via `r`.
   [blog post](http://dirk.eddelbuettel.com/blog/2020/05/24#003_shell_customization),
   [video](https://www.youtube.com/watch?v=TNzU57Sj7Gs),
   [slides](http://dirk.eddelbuettel.com/papers/t4_003_shell_customisation.pdf)
+- \#004 Introducing Byobu (2020-05-31): 
+  [blog post](https://dirk.eddelbuettel.com/blog/2020/05/31#004_byobu_intro)
+  [video](https://www.youtube.com/watch?v=knK0RMul-64),
+  [slides](https://dirk.eddelbuettel.com/papers/t4_004_byobu_intro.pdf)
 
 
 ### What Else?
