@@ -37,7 +37,10 @@ mode and more); likely some `git` and probably some `R` possibly via `r`.
   [blog post](https://dirk.eddelbuettel.com/blog/2020/05/31#004_byobu_intro) |
   [video](https://www.youtube.com/watch?v=knK0RMul-64) |
   [slides](https://dirk.eddelbuettel.com/papers/t4_004_byobu_intro.pdf)
-
+- \#005 More on Byobu (2020-06-07): 
+  [blog post](http://dirk.eddelbuettel.com/blog/2020/06/07#005_more_byobu) |
+  [video](https://www.youtube.com/watch?v=lb-ClAoIw-8) |
+  [slides](http://dirk.eddelbuettel.com/papers/t4_005_more_byobu.pdf
 
 ### What Else?
 
