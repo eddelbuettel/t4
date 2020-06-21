@@ -5,7 +5,7 @@
 
 An informal series of _lightning talks_ taped as videos and supported by
 a few slides.  Focused on a few little ticks and tricks, or tools, or toys, to
-make computing life just that little bit easier. 
+make computing life just that little bit easier.
 
 The scope, as outlined in the [initial
 post](http://dirk.eddelbuettel.com/blog/2020/05/03#000_introducing_t4) and
@@ -17,35 +17,44 @@ mode and more); likely some `git` and probably some `R` possibly via `r`.
 
 ### Episodes
 
-- \#000 Intro and Overview (2020-05-03): 
+- \#000 Intro and Overview (2020-05-03):
   [blog post](http://dirk.eddelbuettel.com/blog/2020/05/03#000_introducing_t4) |
   [video](https://www.youtube.com/watch?v=-gKtibww-fI) |
   [slides](http://dirk.eddelbuettel.com/papers/t4_000_intro.pdf)
-- \#001 Shell Adding Colours (2020-05-10): 
+- \#001 Shell Adding Colours (2020-05-10):
   [blog post](http://dirk.eddelbuettel.com/blog/2020/05/03#000_introducing_t4) |
   [video](https://www.youtube.com/watch?v=a1Bo2yUotv8) |
   [slides](http://dirk.eddelbuettel.com/papers/t4_001_shell_colors.pdf)
-- \#002 Shell Customize Prompt (2020-05-17): 
+- \#002 Shell Customize Prompt (2020-05-17):
   [blog post](http://dirk.eddelbuettel.com/blog/2020/05/17#002_shell_prompt) |
   [video](https://www.youtube.com/watch?v=j0NCVIk9Yx8) |
   [slides](http://dirk.eddelbuettel.com/papers/t4_002_shell_prompt.pdf)
-- \#003 Shell Customization (2020-05-24): 
+- \#003 Shell Customization (2020-05-24):
   [blog post](http://dirk.eddelbuettel.com/blog/2020/05/24#003_shell_customization) |
   [video](https://www.youtube.com/watch?v=TNzU57Sj7Gs) |
   [slides](http://dirk.eddelbuettel.com/papers/t4_003_shell_customisation.pdf)
-- \#004 Introducing Byobu (2020-05-31): 
+- \#004 Introducing Byobu (2020-05-31):
   [blog post](https://dirk.eddelbuettel.com/blog/2020/05/31#004_byobu_intro) |
   [video](https://www.youtube.com/watch?v=knK0RMul-64) |
   [slides](https://dirk.eddelbuettel.com/papers/t4_004_byobu_intro.pdf)
-- \#005 More on Byobu (2020-06-07): 
+- \#005 More on Byobu (2020-06-07):
   [blog post](https://dirk.eddelbuettel.com/blog/2020/06/07#005_more_byobu) |
   [video](https://www.youtube.com/watch?v=lb-ClAoIw-8) |
-  [slides](https://dirk.eddelbuettel.com/papers/t4_005_more_byobu.pdf) | 
+  [slides](https://dirk.eddelbuettel.com/papers/t4_005_more_byobu.pdf) |
   [code example](byobuEx/script.R)
-- \#006 Byobu Sessions (2020-06-14): 
+- \#006 Byobu Sessions (2020-06-14):
   [blog post](http://dirk.eddelbuettel.com/blog/2020/06/14#006_byobu_sessions) |
   [video](https://www.youtube.com/watch?v=_4vzfhWuAb4) |
-  [slides](https://dirk.eddelbuettel.com/papers/t4_006_byobu_sessions.pdf) 
+  [slides](https://dirk.eddelbuettel.com/papers/t4_006_byobu_sessions.pdf)
+- \#007 CRAN and R Binaries on Ubuntu Three Ways (2020-06-21):
+  [blog post](http://dirk.eddelbuettel.com/blog/2020/06/21#007_cran_r_binaries) |
+  [video](https://www.youtube.com/watch?v=ZnGEhtGBFaE) |
+  [slides](https://dirk.eddelbuettel.com/papers/t4_007_ubuntu_binaries.pdf)
+
+### Code Snippets
+
+- \#005 More on Byobu: [byobuEx/](byobuEx/)
+- \#007 CRAN and R Binaries: [ubuntuInstalls/](ubuntuInstalls/)
 
 ### What Else?
 
