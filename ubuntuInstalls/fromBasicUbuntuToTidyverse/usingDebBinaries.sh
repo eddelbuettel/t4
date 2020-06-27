@@ -4,7 +4,7 @@
 ##
 ## for more details on this consult https://cloud.r-project.org/bin/linux/ubuntu/README.html
 
-## Step One: turn of interactive install, affects only one question for default timezone
+## Step One: turn off interactive install, affects only one question for default timezone
 export DEBIAN_FRONTEND=noninteractive
 
 ## Step Two:  update listings and install helper for PPAs
